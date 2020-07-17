@@ -10,7 +10,7 @@ from platform import python_version, uname
 
 ALIVE_PIC = os.environ.get("ALIVE_PIC", None)
 if ALIVE_PIC is None:
-  CAT_IMG = "https://telegra.ph/file/a6c81b071ebe187d051c1.jpg"
+  CAT_IMG = "https://telegra.ph/file/4482ab16568a54d392436.jpg"
 else:
   CAT_IMG = ALIVE_PIC
 
